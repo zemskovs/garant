@@ -8,6 +8,13 @@ img {
     max-width: 100%;
 }
 
+.btn {
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+    padding: 10px 25px;
+    font-weight: 700;
+}
+
 .inline {
     display: flex;
 }
@@ -109,8 +116,39 @@ img {
     padding: 0 30px;
 }
 
+.pre-main {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.big .pre-main {
+    margin-bottom: 32px;
+}
+
 .pre-main-date .date {
     color: #ff400f;
     font-size: 22px;
     padding-top: 30px;
+}
+
+.block-category {
+    font-size: 15px;
+    line-height: 21.77px;
+    font-size: 15px;
+    color: #999999;
+}
+
+.big .block-header {
+    color: #222222;
+    font-size: 22px;
+    line-height: 28.05px;
+    margin-bottom: 28px;
+}
+
+.big .block-description-text {
+    font-size: 17px;
+    line-height: 26px;
 }
