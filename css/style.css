@@ -60,6 +60,7 @@ img {
     flex-flow: column;
     align-items: center;
     justify-content: center;
+    line-height: 19.28px;
 }
 
 .top-menu {
@@ -74,6 +75,10 @@ img {
 
 .menu-item {
     padding: 20px 28px;
+}
+
+.demo-img {
+    margin-right: 14px;
 }
 
 .slider-1 {
@@ -128,7 +133,7 @@ img {
     margin-bottom: 32px;
 }
 
-.pre-main-date .date {
+.big .pre-main-date .date {
     color: #ff400f;
     font-size: 22px;
     padding-top: 30px;
