@@ -203,3 +203,11 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.footer-subscribe {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-content: center;
+    color: #ffffff;
+}
