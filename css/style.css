@@ -55,6 +55,10 @@ img {
     font-weight: 400;
 }
 
+.pd-tp-24 {
+    padding-top: 24px;
+}
+
 .text-deep-grey {
     color: #999999;
 }
@@ -129,6 +133,8 @@ img {
     border-top: 0;
     margin-top: -6px;
     padding: 0 30px;
+    height: 394px;
+    margin-bottom: 58px;
 }
 
 .block-description {
@@ -136,6 +142,8 @@ img {
     border-top: 0;
     margin-top: -6px;
     padding: 0 26px;
+    height: 193px;
+    margin-bottom: 30px;
 }
 
 .pre-main {
@@ -163,7 +171,7 @@ img {
     padding-top: 30px;
 }
 
-.block-category {
+.big .block-category {
     font-size: 15px;
     line-height: 21.77px;
     font-size: 15px;
@@ -180,6 +188,12 @@ img {
 .big .block-description-text {
     font-size: 17px;
     line-height: 26px;
+}
+
+.block-category {
+    font-size: 12px;
+    color: #999999;
+    line-height: 21.54px;
 }
 
 .qusten-block-text {
